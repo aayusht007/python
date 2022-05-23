@@ -5,3 +5,4 @@ def add(a,b):
     return c
 print(add(a,b))
 print("this is first pgm")
+print("water")
