@@ -6,3 +6,4 @@ def add(a,b):
 print(add(a,b))
 print("this is first pgm")
 print("water")
+print('soda')
